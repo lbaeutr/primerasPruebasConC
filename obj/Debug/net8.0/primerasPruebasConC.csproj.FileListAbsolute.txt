@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\bin\Debug\net8.0\primerasPruebasConC.exe
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\bin\Debug\net8.0\primerasPruebasConC.deps.json
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\bin\Debug\net8.0\primerasPruebasConC.runtimeconfig.json
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\bin\Debug\net8.0\primerasPruebasConC.dll
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\bin\Debug\net8.0\primerasPruebasConC.pdb
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.dll
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\refint\primerasPruebasConC.dll
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.pdb
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\primerasPruebasConC.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\DAM\DAM 2\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\EJERCICIOS\#1 Primeras pruebas con C#\primerasPruebasConC\obj\Debug\net8.0\ref\primerasPruebasConC.dll

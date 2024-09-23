@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\protection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:protection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|c:\\users\\usuario\\onedrive\\dam\\dam 2\\dam 2 programacion de servicios y procesos (psp)\\ejercicios\\#1 primeras pruebas con c#\\primeraspruebasconc\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A910D32-4DBC-49B9-9819-5014B055A458}|primerasPruebasConC.csproj|solutionrelative:shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:21:02.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Shield.cs",
+              "RelativeDocumentMoniker": "Shield.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Shield.cs",
+              "RelativeToolTip": "Shield.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:21:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helmet.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Helmet.cs",
+              "RelativeDocumentMoniker": "Helmet.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Helmet.cs",
+              "RelativeToolTip": "Helmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:15:47.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Sword.cs",
+              "RelativeDocumentMoniker": "Sword.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Sword.cs",
+              "RelativeToolTip": "Sword.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:10:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Axe.cs",
+              "RelativeDocumentMoniker": "Axe.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Axe.cs",
+              "RelativeToolTip": "Axe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:06:18.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Protection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Protection.cs",
+              "RelativeDocumentMoniker": "Protection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Protection.cs",
+              "RelativeToolTip": "Protection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:44:07.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:39:44.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA0wEIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:36:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\DAM\\DAM 2\\DAM 2 PROGRAMACION DE SERVICIOS Y PROCESOS (PSP)\\EJERCICIOS\\#1 Primeras pruebas con C#\\primerasPruebasConC\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:17:01.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
